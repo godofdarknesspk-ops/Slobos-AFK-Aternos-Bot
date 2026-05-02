@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ns576425.seedloaf.com:49352",
-    "port": 19132,
+    "ip": "teacupsmp.sdlf.fun",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
