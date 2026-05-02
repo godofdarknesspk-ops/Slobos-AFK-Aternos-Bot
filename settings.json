@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKBOT_69",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "teacupsmp.sdlf.fun",
-    "port": 27586,
+    "ip": "ns576425.seedloaf.com:49380",
+    "port": 24454,
     "version": "1.21.11",
     "try-creative": false
   },
