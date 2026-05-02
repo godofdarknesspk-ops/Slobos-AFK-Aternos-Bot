@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ns576425.seedloaf.com:49380",
+    "ip": "ns576425.seedloaf.com",
     "port": 24454,
     "version": "1.21.11",
     "try-creative": false
